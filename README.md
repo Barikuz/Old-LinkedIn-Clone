@@ -1,0 +1,1 @@
+This project was made within the scope of Patika Bootstrap education. It's a clone of older versions of LinkedIn. In this project was given a corrupted version to me and i tried to fix it. Also the content language is Turkish. The corrupted version of this project --> https://github.com/Kodluyoruz/taskforce/tree/main/bootstrap/odev3/bootstraplinkedinclone
